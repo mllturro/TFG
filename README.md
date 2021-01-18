@@ -1,5 +1,5 @@
 # Unsupervised Ensemble Learning with Dependent Classifiers
-Repository containing all the codes developed and used during my final bachelor's degree thesis (TFG), focused on Unsupervised Ensemble Learning.
+Repository containing all the codes developed and used during my final bachelor's degree thesis (TFG), with the title *Unsupervised Ensemble Learning with Dependent Classifiers*.
 
 All files are written in MATLAB R2020b. The file names containing '_main' are key functions that cluster and make use of other minor functions. The files are structured as follows:
 
